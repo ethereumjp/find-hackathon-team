@@ -4,9 +4,9 @@ This repository contains an issue tracker that allows teams to find hackers, and
 
 ## TL;DR
 
-- Looking for a team? Create an issue with `[Looking for team]`: [find-hackathon-team/issues/new?template=hacker-wants-team.md](https://github.com/ethereumjp/find-hackathon-team/issues/new?assignees=&labels=looking-for-team&template=hacker-wants-team.md&title=%5BLFT%5D%3A+)
-- Looking for hackers? Create an issue with `[Hacker wanted]`: [find-hackathon-team/issues/new?template=team-wants-hacker.md](https://github.com/ethereumjp/find-hackathon-team/issues/new?assignees=&labels=looking-for-hackers&template=team-wants-hacker.md&title=%5BLFH%5D%3A+)
-- Want to create a new team? Create an issue with `[New Team]`: [find-hackathon-team/issues/new?template=idea-wants-team.md](https://github.com/ethereumjp/find-hackathon-team/issues/new?assignees=&labels=creating-new-team&template=idea-wants-team.md&title=%5BNEW%5D%3A+)
+- Looking for a team? Create an issue with `[Looking for team]`: [find-hackathon-team/issues/new?template=hacker-wants-team.md](https://github.com/ethereumjp/find-hackathon-team/issues/new?assignees=&labels=looking-for-team&template=hacker-wants-team.md&title=%5BLooking%20for%20team%5D%3A+)
+- Looking for hackers? Create an issue with `[Hacker wanted]`: [find-hackathon-team/issues/new?template=team-wants-hacker.md](https://github.com/ethereumjp/find-hackathon-team/issues/new?assignees=&labels=looking-for-hackers&template=team-wants-hacker.md&title=%5BHacker%20wanted%5D%3A+)
+- Want to create a new team? Create an issue with `[New Team]`: [find-hackathon-team/issues/new?template=idea-wants-team.md](https://github.com/ethereumjp/find-hackathon-team/issues/new?assignees=&labels=creating-new-team&template=idea-wants-team.md&title=%5BNew%20Team%5D%3A+)
 - Browse existing inserations: [ethereumjp/find-hackathon-team/issues](https://github.com/ethereumjp/find-hackathon-team/issues)
 - Connect with hackers on Discord: [#🗼eth-tokyo > 🧵Find team](https://discord.gg/Tm5jU3DSCE)
 
